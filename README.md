@@ -11,7 +11,7 @@ The script processes Linux authentication logs, extracts structured data using r
 - Python
 - Ubuntu Linux (WSL)
 - Regex
-- Linux authentication logs
+- Log Data Analysis
 - Command-line interface (CLI)
 
 ## Features
@@ -54,4 +54,16 @@ Failed Attempts: 3
 Severity Level: MEDIUM
 ALERT: 203.0.113.10 may be suspicious.
 ```
+
+## Skills Demonstrated
+
+- Python
+- Data Analysis
+- Log Analysis
+- Data Processing
+- Regular Expressions (Regex)
+- Linux
+- File Handling
+- Automation
+- Problem Solving
 
