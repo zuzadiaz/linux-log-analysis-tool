@@ -1,10 +1,10 @@
-# Linux SSH Log Monitoring Tool
+# Log Data Analysis with Python
 
 ## Overview
 
-This project is a Python-based cybersecurity tool built in Ubuntu Linux (WSL).
+This project is a Python-based log analysis tool built in Ubuntu Linux (WSL).
 
-The script analyzes Linux authentication logs, detects failed SSH login attempts, extracts suspicious IP addresses using regex, and flags repeated failed login activity.
+The script processes Linux authentication logs, extracts structured data using regular expressions (regex), analyzes failed login activity, identifies recurring patterns, and summarizes repeated events.
 
 ## Technologies Used
 
@@ -16,11 +16,11 @@ The script analyzes Linux authentication logs, detects failed SSH login attempts
 
 ## Features
 
-- Reads Linux auth logs
-- Detects failed SSH login attempts
-- Extracts IP addresses
-- Counts repeated failed logins
-- Flags suspicious activity
+- Reads and processes Linux authentication logs
+- Extracts IP addresses from log records
+- Identifies failed login activity
+- Counts repeated events
+- Summarizes recurring patterns in log data
 
 ## How to Run
 
